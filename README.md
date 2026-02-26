@@ -27,9 +27,16 @@
 ---
 
 
-## 📫 Connect With Me
+## 🤝 Let's Collaborate!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nikhila-kalidindi-0950bb322/)
 - 📧 [Email](mailto:kalidindinikhilavarma@gmail.com)
-- 💻 [GitHub](https://github.com/kalidindinikhila) 
+- 💻 [GitHub](https://github.com/kalidindinikhila)
+
+##⚡ Fun Facts
+
+-📊 I track my goals like metrics and ship them like products
+-🧠 I enjoy debugging life problems the same way I debug code
+-🚀 Small daily improvements > sudden motivation
+-🎯 Motto: “Think Deep. Build Smart. Stay Consistent.”
 
