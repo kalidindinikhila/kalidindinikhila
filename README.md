@@ -19,24 +19,27 @@
 ---
 
 ## 📈 Coding Profiles
-- 🟡 [LeetCode](https://leetcode.com/u/kalidindinikhila/)
-- 🟠 [HackerRank](https://www.hackerrank.com/profile/23b01a1263)
-- 🔵 [Codeforces](https://codeforces.com/profile/nikhila_1233)
-- 🟢 [GeeksforGeeks](https://www.geeksforgeeks.org/profile/kalidindinike5d)
+- 🟡 [LeetCode](https://leetcode.com/u/kalidindinikhila/) kalidindinikhila
+- 🟠 [HackerRank](https://www.hackerrank.com/profile/23b01a1263) 23b01a1263
+- 🔵 [Codeforces](https://codeforces.com/profile/nikhila_1233) nikhila_1233
+- 🟢 [GeeksforGeeks](https://www.geeksforgeeks.org/profile/kalidindinike5d) kalidindinikhila
 
 ---
 
 
 ## 🤝 Let's Collaborate!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nikhila-kalidindi-0950bb322/)
-- 📧 [Email](mailto:kalidindinikhilavarma@gmail.com)
-- 💻 [GitHub](https://github.com/kalidindinikhila)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nikhila-kalidindi-0950bb322/) nikhila-kalidindi
+- 📧 [Email](mailto:kalidindinikhilavarma@gmail.com) kalidindinikhilavarma@gmail.com
+- 💻 [GitHub](https://github.com/kalidindinikhila) kalidindinikhila
 
-##⚡ Fun Facts
 
--📊 I track my goals like metrics and ship them like products
--🧠 I enjoy debugging life problems the same way I debug code
--🚀 Small daily improvements > sudden motivation
--🎯 Motto: “Think Deep. Build Smart. Stay Consistent.”
+---
+
+## ⚡ Fun Facts
+
+- 📊 I track my goals like metrics and ship them like products 
+- 🧠 I enjoy debugging life problems the same way I debug code
+- 🚀 Small daily improvements > sudden motivation
+- 🎯 Motto: *Motto: “Think Deep. Build Smart. Stay Consistent.”*
 
