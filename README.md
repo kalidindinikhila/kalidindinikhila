@@ -1,63 +1,35 @@
 # Hey, I'm Nikhila 👋
 
-"Turning career goals into deployed full-stack solutions."
+"Turning career goals into consistent daily progress"
 
 ---
 
 ## 🚀 Who Am I?
 
-- 💻 B.Tech IT Student (2023–2027)
-- 🧠 Strong in DSA (465+ LeetCode problems solved)
-- ⚡ Full-Stack Developer (React + Django)
-- 🎯 Building CareerTrack – AI Career Planner
-- 📊 Love dashboards, analytics & SaaS-style UI
-- 🌱 Always learning, always improving
+-🎓 IT undergraduate building beyond academics
 
----
+-🧠 Data Structures & Algorithms enthusiast.
 
-## 🛠 Tech Stack
+-⚡Crafting end-to-end web solutions
 
-**Languages:** Python, C, C++, Java  
-**Frontend:** React, Tailwind CSS, Chart.js  
-**Backend:** Django, Django REST Framework  
-**Database:** MySQL, SQLite  
-**Tools:** GitHub, VS Code, Postman  
+-📊 Interested in system design, scalable architecture.
 
----
-
-## 📌 Featured Projects
-
-### 🚀 CareerTrack
-AI-powered career planning system with:
-- AI-generated study plans
-- Task tracking
-- Progress graphs
-- Dark SaaS dashboard UI
-
-Tech: React, Django, REST API, Chart.js
-
----
-
-### 🛍 College Celebration Planner
-- Themed decorations
-- Payment integration
-- Admin panel
-- Automated refunds
-
-Tech: React, Django
+-🚀 Committed to continuous learning and product-level thinking.
 
 ---
 
 ## 📈 Coding Profiles
-
-- LeetCode – 465+ problems
-- HackerRank – 4⭐
-- Codeforces – Nikhila_k
-- GeeksForGeeks – kalidindi_Nikhila
+- 🟡 [LeetCode](https://leetcode.com/u/kalidindinikhila/)
+- 🟠 [HackerRank](https://www.hackerrank.com/profile/23b01a1263)
+- 🔵 [Codeforces](https://codeforces.com/profile/nikhila_1233)
+- 🟢 [GeeksforGeeks](https://www.geeksforgeeks.org/profile/kalidindinike5d)
 
 ---
 
+
 ## 📫 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/nikhila-kalidindi-0950bb322/ 
-Email: kalidindinikhilavarma@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nikhila-kalidindi-0950bb322/)
+- 📧 [Email](mailto:kalidindinikhilavarma@gmail.com)
+- 💻 [GitHub](https://github.com/kalidindinikhila) 
+
