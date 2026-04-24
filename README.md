@@ -1,4 +1,4 @@
-# Hey, I'm Nikhila 👋
+# Hey, I'm Kalidindi Nikhila👋
 
 "Turning career goals into consistent daily progress"
 
@@ -15,6 +15,18 @@
 -📊 Interested in system design, scalable architecture.
 
 -🚀 Committed to continuous learning and product-level thinking.
+
+---
+
+## 🛠️ Tech Stack
+
+| Category  | Technologies        |
+| --------- | ------------------- |
+| Languages | Python, C++, Java   |
+| Frontend  | React, HTML5, CSS   |
+| Backend   | Django, Node.js     |
+| Database  | SQLite, PostgreSQL  |
+| Tools     | Git, VS Code        |
 
 ---
 
