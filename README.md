@@ -29,6 +29,13 @@
 | Tools     | Git, VS Code        |
 
 ---
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/kalidindinikhila/ClassTrack">
+  </a>
+</p>
+---
 
 ## 📈 Coding Profiles
 - 🟡 [LeetCode](https://leetcode.com/u/kalidindinikhila/) kalidindinikhila
