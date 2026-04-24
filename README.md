@@ -31,10 +31,9 @@
 ---
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/kalidindinikhila/ClassTrack">
-  </a>
-</p>
+| Project | Description | Tech Stack | Link |
+|--------|------------|-----------|------|
+| ClassTrack | Attendance & productivity management system with geo-verification | React, Node.js, PostgreSQL | [View Project](https://github.com/kalidindinikhila/ClassTrack) |
 ---
 
 ## 📈 Coding Profiles
